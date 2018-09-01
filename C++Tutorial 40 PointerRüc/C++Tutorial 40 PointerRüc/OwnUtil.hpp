@@ -1,0 +1,4 @@
+
+/*Funktionsprototypen*/
+
+void programmpause();

@@ -1,0 +1,5 @@
+﻿  Quelle.cpp
+y:\2_it_informatik\2_programmierung\3_microsoft visual studio 2017 community entwicklung\2_projekte\c++tutorial 56 vector\c++tutorial 56 vector\quelle.cpp(10): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+y:\2_it_informatik\2_programmierung\3_microsoft visual studio 2017 community entwicklung\2_projekte\c++tutorial 56 vector\c++tutorial 56 vector\quelle.cpp(16): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  C++Tutorial 56 vector.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_Microsoft Visual Studio 2017 Community Entwicklung\2_Projekte\C++Tutorial 56 vector\Debug\C++Tutorial 56 vector.exe
+  C++Tutorial 56 vector.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_Microsoft Visual Studio 2017 Community Entwicklung\2_Projekte\C++Tutorial 56 vector\Debug\C++Tutorial 56 vector.pdb (Partial PDB)

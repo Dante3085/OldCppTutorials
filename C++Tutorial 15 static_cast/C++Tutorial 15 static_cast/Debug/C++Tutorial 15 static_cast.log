@@ -1,0 +1,5 @@
+﻿  Quelle.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 15 static_cast\c++tutorial 15 static_cast\quelle.cpp(1): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 15 static_cast\c++tutorial 15 static_cast\quelle.cpp(9): error C2374: "b": Neudefinition; Mehrfachinitialisierung
+  y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 15 static_cast\c++tutorial 15 static_cast\quelle.cpp(8): note: Siehe Deklaration von "b"
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 15 static_cast\c++tutorial 15 static_cast\quelle.cpp(11): error C2088: "<<": Ungültig für class

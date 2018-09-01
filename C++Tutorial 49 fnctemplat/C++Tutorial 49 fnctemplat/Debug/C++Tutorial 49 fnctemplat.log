@@ -1,0 +1,5 @@
+﻿  Quelle.cpp
+y:\2_it_informatik\2_programmierung\3_microsoft visual studio 2017 community entwicklung\2_projekte\c++tutorial 49 fnctemplat\c++tutorial 49 fnctemplat\quelle.cpp(30): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+y:\2_it_informatik\2_programmierung\3_microsoft visual studio 2017 community entwicklung\2_projekte\c++tutorial 49 fnctemplat\c++tutorial 49 fnctemplat\quelle.cpp(31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  C++Tutorial 49 fnctemplat.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_Microsoft Visual Studio 2017 Community Entwicklung\2_Projekte\C++Tutorial 49 fnctemplat\Debug\C++Tutorial 49 fnctemplat.exe
+  C++Tutorial 49 fnctemplat.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_Microsoft Visual Studio 2017 Community Entwicklung\2_Projekte\C++Tutorial 49 fnctemplat\Debug\C++Tutorial 49 fnctemplat.pdb (Partial PDB)

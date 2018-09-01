@@ -1,0 +1,5 @@
+﻿  Quelle.cpp
+y:\programmierung\microsoft visual studio 2017\projekte\c++tutorial 18 extern\c++tutorial 18 extern\quelle.cpp(1): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+y:\programmierung\microsoft visual studio 2017\projekte\c++tutorial 18 extern\c++tutorial 18 extern\quelle.cpp(2): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+  C++Tutorial 18 Extern.vcxproj -> Y:\Programmierung\Microsoft Visual Studio 2017\Projekte\C++Tutorial 18 Extern\Debug\C++Tutorial 18 Extern.exe
+  C++Tutorial 18 Extern.vcxproj -> Y:\Programmierung\Microsoft Visual Studio 2017\Projekte\C++Tutorial 18 Extern\Debug\C++Tutorial 18 Extern.pdb (Partial PDB)

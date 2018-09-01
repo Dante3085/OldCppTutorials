@@ -1,0 +1,6 @@
+﻿  Funktionen.cpp
+Funktionen.cpp(1): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+Funktionen.cpp(29): error C2666: "add": 2 Überladungen haben ähnliche Konvertierungen
+  Funktionen.cpp(16): note: kann "double add(double,double)" sein
+  Funktionen.cpp(11): note: oder "int add(int,int)"
+  Funktionen.cpp(29): note: bei Anpassung der Argumentliste "(double, int)"

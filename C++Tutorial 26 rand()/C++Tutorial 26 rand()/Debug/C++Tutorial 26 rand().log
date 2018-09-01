@@ -1,0 +1,6 @@
+﻿  Quelle.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 26 rand()\c++tutorial 26 rand()\quelle.cpp(1): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 26 rand()\c++tutorial 26 rand()\quelle.cpp(2): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\c++tutorial 26 rand()\c++tutorial 26 rand()\quelle.cpp(28): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  C++Tutorial 26 rand().vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\C++Tutorial 26 rand()\Debug\C++Tutorial 26 rand().exe
+  C++Tutorial 26 rand().vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\C++Tutorial 26 rand()\Debug\C++Tutorial 26 rand().pdb (Partial PDB)

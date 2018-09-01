@@ -1,0 +1,6 @@
+﻿  Quelle.cpp
+Quelle.cpp(23): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  Code wird generiert.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  C++Tutorial 53 ZeitMessen.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_Microsoft Visual Studio 2017 Community Entwicklung\2_Projekte\C++Tutorial 53 ZeitMessen\Release\C++Tutorial 53 ZeitMessen.exe

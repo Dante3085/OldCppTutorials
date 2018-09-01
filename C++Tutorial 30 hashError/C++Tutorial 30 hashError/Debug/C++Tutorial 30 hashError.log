@@ -1,0 +1,2 @@
+﻿  OwnUtil.cpp
+y:\programmierung\microsoft visual studio 2017\projekte\c++tutorial 29 bedingtekompilierung\c++tutorial 29 bedingtekompilierung\ownutil.cpp(7): fatal error C1189: #error:  "WIN and LINUX are defined at the same time!"

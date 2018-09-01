@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+y:\programmierung\microsoft visual studio 2017\projekte\c++tutorial 35 castingproblemepointer\c++tutorial 35 castingproblemepointer\quelle.cpp(19): error C2440: "static_cast": "float *" kann nicht in "int" konvertiert werden
+  y:\programmierung\microsoft visual studio 2017\projekte\c++tutorial 35 castingproblemepointer\c++tutorial 35 castingproblemepointer\quelle.cpp(19): note: Es gibt keinen Kontext, in dem diese Konvertierung möglich ist
